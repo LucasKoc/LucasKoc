@@ -4,9 +4,9 @@ I'm an engineering student at 🇫🇷 [EFREI Paris - Paris-Panthéon-Assas Univ
 
 | Profile stats                                                                                                                | Most Used Languages                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![LucasKoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKoc&show_icons=true&theme=rose_pine) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKoc&layout=compact&theme=dark)](https://github.com/LucasKoc/github-readme-stats) |
+| ![LucasKoc's GitHub stats](https://github-stats-extended.vercel.app/api?username=LucasKoc&show_icons=true&theme=rose_pine) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LucasKoc&layout=compact&theme=dark)](https://github.com/LucasKoc/github-readme-stats) |
 
-Github card from : https://github.com/anuraghazra/github-readme-stats
+Github card from : https://github.com/stats-organization/github-stats-extended
 
 <!--
 **LucasKoc/LucasKoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
